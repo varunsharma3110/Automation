@@ -7,5 +7,5 @@ import org.openqa.selenium.WebDriver;
  */
 public class Amazon {
 
-    WebDriver driver;
+    private WebDriver driver;
 }
